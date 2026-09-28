@@ -1,0 +1,6 @@
+{
+  "name": "Contra Kiến Thức",
+  "description": "Trò chơi hành động Contra kết hợp giải đố trắc nghiệm kiến thức, vượt cổng phong ấn, nhặt súng S, súng L, nấm thần kỳ và chu kỳ ngày đêm hấp dẫn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
